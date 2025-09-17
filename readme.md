@@ -9,4 +9,10 @@
 <h3>Conditional Statements</h3>
 <h3>Loops</h3>
 <h3>Graphics</h3>
-<h3>Data Structures</h3>
+<h3>Data Structures</h3> 
+<h5>
+1.List
+2.Tuple
+3.Set
+4.Dictionary
+</h5>
